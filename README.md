@@ -1,2 +1,2 @@
 # FizzBuzz
-Andrew Bashchak IPZs-24-2
+Andrew Bashchak, student of KDU, group: SWs-24-2
